@@ -1,0 +1,2 @@
+The OutputMAC0000xx.csv are sample output from 2 above. These are the formatted input files for the PPAAC algorithm.
+Run PPAAC.py and specifiy the client to mask daily profile information about. The output data is a PPAACOutputMAC0000xx.csv that contains decayed Daily Load Profiles
